@@ -1,80 +1,58 @@
 #EXTM3U
 
 #EXTINF:-1,Show TV
-https://showtv-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1,Show TV (alt)
-https://c.fulltvizle.com/showtv/index.m3u8
+https://showtvhdm3u8-lh.akamaihd.net/i/ShowTV_1@669801/master.m3u8
 
 #EXTINF:-1,FOX TV
-https://foxtv.blutv.com/blutv_foxtv2/live.m3u8
-#EXTINF:-1,FOX TV (alt)
-https://c.fulltvizle.com/fox/index.m3u8
+https://foxhdm3u8-lh.akamaihd.net/i/FOXHD_1@670511/master.m3u8
 
 #EXTINF:-1,TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1,TV8 (alt)
-https://c.fulltvizle.com/tv8/index.m3u8
+https://tv8hdm3u8-lh.akamaihd.net/i/TV8HD_1@695568/master.m3u8
 
 #EXTINF:-1,ATV
-https://c.fulltvizle.com/atv/index.m3u8
-#EXTINF:-1,ATV (alt)
-https://atv-live.daioncdn.net/atv/atv.m3u8
+https://atvhdm3u8-lh.akamaihd.net/i/ATVHD_1@690645/master.m3u8
 
 #EXTINF:-1,Star TV
-https://c.fulltvizle.com/star/index.m3u8
-#EXTINF:-1,Star TV (alt)
 https://startvhdm3u8-lh.akamaihd.net/i/StarTV_1@588620/master.m3u8
 
 #EXTINF:-1,Kanal D
-https://c.fulltvizle.com/kanald/index.m3u8
-#EXTINF:-1,Kanal D (alt)
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://kanaldhdm3u8-lh.akamaihd.net/i/KanalDHD_1@696698/master.m3u8
 
 #EXTINF:-1,Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1,Beyaz TV (alt)
-https://c.fulltvizle.com/beyaztv/index.m3u8
 
 #EXTINF:-1,Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1,Kanal 7 (alt)
-https://c.fulltvizle.com/kanal7/index.m3u8
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 
 #EXTINF:-1,CNN Türk
-https://c.fulltvizle.com/cnnturk/index.m3u8
-#EXTINF:-1,CNN Türk (alt)
-https://dogus-live.daioncdn.net/cnnturk/cnnturk.m3u8
+https://cnnturkhdm3u8-lh.akamaihd.net/i/CNNTURKHD_1@694522/master.m3u8
 
 #EXTINF:-1,NTV
-https://c.fulltvizle.com/ntv/index.m3u8
-#EXTINF:-1,NTV (alt)
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+https://ntvhdm3u8-lh.akamaihd.net/i/NTVHD_1@697890/master.m3u8
 
 #EXTINF:-1,A Haber
-https://c.fulltvizle.com/ahaber/index.m3u8
-#EXTINF:-1,A Haber (alt)
-http://stream.tvcdn.net/haber/a-haber.m3u8
+https://ahaberhdm3u8-lh.akamaihd.net/i/AHABERHD_1@712562/master.m3u8
 
 #EXTINF:-1,Haber Türk
-https://c.fulltvizle.com/haberturk/index.m3u8
-#EXTINF:-1,Haber Türk (alt)
-https://dogus-live.daioncdn.net/haberturk/haberturk.m3u8
+https://haberturkhdm3u8-lh.akamaihd.net/i/HaberTurkHD_1@711880/master.m3u8
 
 #EXTINF:-1,TV 100
-https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:-1,TV 100 (alt)
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+
+#EXTINF:-1,Kanal 24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1,Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1,TRT Spor HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,NTV Spor
-https://dogus-live.daioncdn.net/ntvspor/ntvspor.m3u8
-#EXTINF:-1,NTV Spor (alt)
-https://c.fulltvizle.com/ntvspor/index.m3u8
+https://ntvsporm3u8-lh.akamaihd.net/i/NTVSPOR_1@459123/master.m3u8
 
 #EXTINF:-1,A Spor
-https://c.fulltvizle.com/aspor/index.m3u8
+https://asporm3u8-lh.akamaihd.net/i/ASPOR_1@668311/master.m3u8
 
 #EXTINF:-1,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
@@ -85,7 +63,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Haber HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,TRT World
+#EXTINF:-1,TRT World HD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,TRT Çocuk
@@ -99,12 +77,6 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1,Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-
-#EXTINF:-1,24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
 #EXTINF:-1,Power Türk
 https://livetv.powerapp.com.tr/powerturktv/powerturktv.smil/playlist.m3u8
