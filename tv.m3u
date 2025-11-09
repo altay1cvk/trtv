@@ -1,70 +1,69 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Généralistes",TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+# ==========================================
+# CHAÎNES TRT OFFICIELLES (100% FONCTIONNELLES)
+# ==========================================
 
-#EXTINF:-1 tvg-id="FOX.tr" tvg-logo="" group-title="Généralistes",FOX TV
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/TRT_1_logo.svg/512px-TRT_1_logo.svg.png" group-title="TRT - Généralistes",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="" group-title="Généralistes",Show TV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_Haber_logo.svg/512px-TRT_Haber_logo.svg.png" group-title="TRT - Actualités",TRT Haber HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="" group-title="Généralistes",TV8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/TRT_Spor_logo.svg/512px-TRT_Spor_logo.svg.png" group-title="TRT - Sport",TRT Spor HD
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="" group-title="Généralistes",ATV HD
-https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="TRT - International",TRT World HD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="" group-title="Généralistes",Star TV
-https://startvhdm3u8-lh.akamaihd.net/i/StarTV_1@588620/master.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TRT_%C3%87ocuk_logo.svg/512px-TRT_%C3%87ocuk_logo.svg.png" group-title="TRT - Enfants",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="" group-title="Généralistes",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TRT_M%C3%BCzik_logo_%282019-%29.svg/512px-TRT_M%C3%BCzik_logo_%282019-%29.svg.png" group-title="TRT - Musique",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="" group-title="Généralistes",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TRT_Belgesel_logo.svg/512px-TRT_Belgesel_logo.svg.png" group-title="TRT - Documentaires",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="" group-title="Généralistes",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="" group-title="TRT - Culture",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="" group-title="Actualités",TRT Haber HD
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="" group-title="TRT - International",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="" group-title="Actualités",CNN Türk
-https://dogus-live.daioncdn.net/cnnturk/cnnturk_720p.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="" group-title="TRT - International",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="HaberTurk.tr" tvg-logo="" group-title="Actualités",Haber Türk
-https://dogus-live.daioncdn.net/haberturk/haberturk_720p.m3u8
+#EXTINF:-1 tvg-id="TRTEZ.tr" tvg-logo="" group-title="TRT - Documentaires",TRT EBA TV İlkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="" group-title="Actualités",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="" group-title="Actualités",A Haber
-http://stream.tvcdn.net/haber/a-haber.m3u8
-
-#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="" group-title="Actualités",24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+# ==========================================
+# AUTRES CHAÎNES (à tester selon ta région)
+# ==========================================
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="" group-title="Actualités",TV 100
-https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="" group-title="Actualités",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="" group-title="Sport",TRT Spor HD
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TGRT.tr" tvg-logo="" group-title="Actualités",TGRT Haber
+https://tv.ensonhaber.com/tgrt/tgrt.m3u8
 
-#EXTINF:-1 tvg-id="NTVSpor.tr" tvg-logo="" group-title="Sport",NTV Spor
-https://dogus-live.daioncdn.net/ntvspor/ntvspor_720p.m3u8
+#EXTINF:-1 tvg-id="UcanKus.tr" tvg-logo="" group-title="Actualités",Uçankuş TV
+https://tv.ensonhaber.com/ucankus/ucankus.m3u8
 
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="" group-title="International",TRT World
-https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="" group-title="Actualités",360 TV
+https://tv.ensonhaber.com/360tv/360tv.m3u8
 
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="" group-title="Enfants",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="Number1.tr" tvg-logo="" group-title="Musique",Number One TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="" group-title="Musique",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="PowerTurk.tr" tvg-logo="" group-title="Musique",Power Türk TV
+https://livetv.powerapp.com.tr/powerturktv/powerturktv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="" group-title="Documentaires",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="" group-title="Musique",Power TV
+https://livetv.powerapp.com.tr/powertv/powertv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dream.tr" tvg-logo="" group-title="Musique",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
