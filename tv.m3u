@@ -1,153 +1,119 @@
 #EXTM3U
 
-# ==========================================
-# CHAÎNES GÉNÉRALISTES
-# ==========================================
-
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="" group-title="Généralistes",Show TV
+#EXTINF:-1,Show TV
 https://showtv-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:-1 tvg-id="ShowTV2.tr" tvg-logo="" group-title="Généralistes",Show TV (alt)
+#EXTINF:-1,Show TV (alt)
 https://c.fulltvizle.com/showtv/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX.tr" tvg-logo="" group-title="Généralistes",FOX TV (Now TV)
+#EXTINF:-1,FOX TV
 https://foxtv.blutv.com/blutv_foxtv2/live.m3u8
-
-#EXTINF:-1 tvg-id="FOX2.tr" tvg-logo="" group-title="Généralistes",FOX TV (alt)
+#EXTINF:-1,FOX TV (alt)
 https://c.fulltvizle.com/fox/index.m3u8
 
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="" group-title="Généralistes",TV8
+#EXTINF:-1,TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-id="TV8_2.tr" tvg-logo="" group-title="Généralistes",TV8 (alt)
+#EXTINF:-1,TV8 (alt)
 https://c.fulltvizle.com/tv8/index.m3u8
 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="" group-title="Généralistes",ATV
+#EXTINF:-1,ATV
 https://c.fulltvizle.com/atv/index.m3u8
-
-#EXTINF:-1 tvg-id="ATV2.tr" tvg-logo="" group-title="Généralistes",ATV (alt)
+#EXTINF:-1,ATV (alt)
 https://atv-live.daioncdn.net/atv/atv.m3u8
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="" group-title="Généralistes",Star TV
+#EXTINF:-1,Star TV
 https://c.fulltvizle.com/star/index.m3u8
-
-#EXTINF:-1 tvg-id="StarTV2.tr" tvg-logo="" group-title="Généralistes",Star TV (alt)
+#EXTINF:-1,Star TV (alt)
 https://startvhdm3u8-lh.akamaihd.net/i/StarTV_1@588620/master.m3u8
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="" group-title="Généralistes",Kanal D
+#EXTINF:-1,Kanal D
 https://c.fulltvizle.com/kanald/index.m3u8
-
-#EXTINF:-1 tvg-id="KanalD2.tr" tvg-logo="" group-title="Généralistes",Kanal D (alt)
+#EXTINF:-1,Kanal D (alt)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="" group-title="Généralistes",Beyaz TV
+#EXTINF:-1,Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-
-#EXTINF:-1 tvg-id="BeyazTV2.tr" tvg-logo="" group-title="Généralistes",Beyaz TV (alt)
+#EXTINF:-1,Beyaz TV (alt)
 https://c.fulltvizle.com/beyaztv/index.m3u8
 
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="" group-title="Généralistes",Kanal 7
+#EXTINF:-1,Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-
-#EXTINF:-1 tvg-id="Kanal7_2.tr" tvg-logo="" group-title="Généralistes",Kanal 7 (alt)
+#EXTINF:-1,Kanal 7 (alt)
 https://c.fulltvizle.com/kanal7/index.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Généralistes",TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-# ==========================================
-# CHAÎNES ACTUALITÉS
-# ==========================================
-
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="" group-title="Actualités",CNN Türk
+#EXTINF:-1,CNN Türk
 https://c.fulltvizle.com/cnnturk/index.m3u8
-
-#EXTINF:-1 tvg-id="CNNTurk2.tr" tvg-logo="" group-title="Actualités",CNN Türk (alt)
+#EXTINF:-1,CNN Türk (alt)
 https://dogus-live.daioncdn.net/cnnturk/cnnturk.m3u8
 
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="" group-title="Actualités",NTV
+#EXTINF:-1,NTV
 https://c.fulltvizle.com/ntv/index.m3u8
-
-#EXTINF:-1 tvg-id="NTV2.tr" tvg-logo="" group-title="Actualités",NTV (alt)
+#EXTINF:-1,NTV (alt)
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="" group-title="Actualités",A Haber
+#EXTINF:-1,A Haber
 https://c.fulltvizle.com/ahaber/index.m3u8
-
-#EXTINF:-1 tvg-id="AHaber2.tr" tvg-logo="" group-title="Actualités",A Haber (alt)
+#EXTINF:-1,A Haber (alt)
 http://stream.tvcdn.net/haber/a-haber.m3u8
 
-#EXTINF:-1 tvg-id="HaberTurk.tr" tvg-logo="" group-title="Actualités",Haber Türk
+#EXTINF:-1,Haber Türk
 https://c.fulltvizle.com/haberturk/index.m3u8
-
-#EXTINF:-1 tvg-id="HaberTurk2.tr" tvg-logo="" group-title="Actualités",Haber Türk (alt)
+#EXTINF:-1,Haber Türk (alt)
 https://dogus-live.daioncdn.net/haberturk/haberturk.m3u8
 
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="" group-title="Actualités",TRT Haber HD
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="" group-title="Actualités",TV 100
+#EXTINF:-1,TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-
-#EXTINF:-1 tvg-id="TV100_2.tr" tvg-logo="" group-title="Actualités",TV 100 (alt)
+#EXTINF:-1,TV 100 (alt)
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="" group-title="Actualités",Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-
-#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="" group-title="Actualités",24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-
-# ==========================================
-# CHAÎNES SPORT
-# ==========================================
-
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="" group-title="Sport",TRT Spor HD
+#EXTINF:-1,TRT Spor HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="NTVSpor.tr" tvg-logo="" group-title="Sport",NTV Spor
+#EXTINF:-1,NTV Spor
 https://dogus-live.daioncdn.net/ntvspor/ntvspor.m3u8
-
-#EXTINF:-1 tvg-id="NTVSpor2.tr" tvg-logo="" group-title="Sport",NTV Spor (alt)
+#EXTINF:-1,NTV Spor (alt)
 https://c.fulltvizle.com/ntvspor/index.m3u8
 
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="" group-title="Sport",A Spor
+#EXTINF:-1,A Spor
 https://c.fulltvizle.com/aspor/index.m3u8
 
-# ==========================================
-# CHAÎNES TRT
-# ==========================================
-
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="" group-title="TRT",TRT Belgesel
+#EXTINF:-1,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="" group-title="TRT",TRT World
+#EXTINF:-1,TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT Haber HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="" group-title="TRT",TRT Çocuk
+#EXTINF:-1,TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="" group-title="TRT",TRT Müzik
+#EXTINF:-1,TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="" group-title="TRT",TRT Avaz
+#EXTINF:-1,TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="" group-title="TRT",TRT Türk
+#EXTINF:-1,TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-# ==========================================
-# CHAÎNES MUSIQUE
-# ==========================================
+#EXTINF:-1,Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
-#EXTINF:-1 tvg-id="PowerTurk.tr" tvg-logo="" group-title="Musique",Power Türk
+#EXTINF:-1,24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
+#EXTINF:-1,Power Türk
 https://livetv.powerapp.com.tr/powerturktv/powerturktv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="" group-title="Musique",Power TV
+#EXTINF:-1,Power TV
 https://livetv.powerapp.com.tr/powertv/powertv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Number1.tr" tvg-logo="" group-title="Musique",Number One TV
+#EXTINF:-1,Number One TV
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dream.tr" tvg-logo="" group-title="Musique",Dream Türk
+#EXTINF:-1,Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
