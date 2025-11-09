@@ -4,58 +4,58 @@
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="FOX.tr" tvg-logo="" group-title="Généralistes",FOX TV
-https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="" group-title="Généralistes",Show TV
-https://streams2.livetv.az/turk/showtv/playlist.m3u8
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="" group-title="Généralistes",TV8
-https://streams2.livetv.az/turk/tv8_stream/playlist.m3u8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="" group-title="Généralistes",ATV HD
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="" group-title="Généralistes",Star TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+https://startvhdm3u8-lh.akamaihd.net/i/StarTV_1@588620/master.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="" group-title="Généralistes",Kanal D
-http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="" group-title="Généralistes",Beyaz TV
-https://beyaztv-live.ercdn.net/beyaztv/beyaztv_720p.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="" group-title="Généralistes",Kanal 7
-https://kanal7-live.ercdn.net/kanal7/kanal7_720p.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="" group-title="Actualités",TRT Haber HD
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="" group-title="Actualités",CNN Türk
-http://stream.tvcdn.net/haber/cnn-turk.m3u8
+https://dogus-live.daioncdn.net/cnnturk/cnnturk_720p.m3u8
 
 #EXTINF:-1 tvg-id="HaberTurk.tr" tvg-logo="" group-title="Actualités",Haber Türk
-http://stream.tvcdn.net/haber/haberturk.m3u8
+https://dogus-live.daioncdn.net/haberturk/haberturk_720p.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="" group-title="Actualités",NTV
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="" group-title="Actualités",A Haber HD
-http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="" group-title="Actualités",A Haber
+http://stream.tvcdn.net/haber/a-haber.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="" group-title="Actualités",24 TV
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kanal24.tr" tvg-logo="" group-title="Actualités",Kanal 24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="" group-title="Actualités",TV 100
-https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
+
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="" group-title="Actualités",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="" group-title="Sport",TRT Spor HD
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="NTVSpor.tr" tvg-logo="" group-title="Sport",NTV Spor
-http://nt4p9nef.rocketcdn.com/ntvspor.stream_720p/chunklist.m3u8
+https://dogus-live.daioncdn.net/ntvspor/ntvspor_720p.m3u8
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="" group-title="International",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
