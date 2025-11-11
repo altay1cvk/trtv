@@ -18,8 +18,28 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (2)
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (backup)
+https://trn03.tulix.tv/gt-star-tv/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (backup 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (backup 2)
+http://116.202.238.88/STARTV_TR/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (backup 3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (backup 3)
+http://95.174.71.114/TR-STAR/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (backup 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (backup 4)
+https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (backup 5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (backup 5)
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (backup 6)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (backup 6)
+http://cdn-tr.tivimivi.com/streams/118/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (backup 7)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (backup 7)
+https://trn03.tulix.tv/gt-star-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (backup 8)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (backup 8)
+https://live20.bozztv.com/trn09/gin-startv/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV (backup 9)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV (backup 9)
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="TURK HD+ LINE",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
@@ -33,10 +53,30 @@ https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SHOW TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png" group-title="TURK HD+ LINE",SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TV 8 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="TURK HD+ LINE",TV 8 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="TURK HD+ LINE",TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8 (2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="TURK HD+ LINE",TV8 (2)
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8.5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="TURK HD+ LINE",TV8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8.5 (2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="TURK HD+ LINE",TV8.5 (2)
+https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8 (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="TURK HD+ LINE",TV8 (backup)
+http://95.174.71.114:80/TR-TV8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8 (backup 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="TURK HD+ LINE",TV8 (backup 2)
+http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8 (backup 3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="TURK HD+ LINE",TV8 (backup 3)
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV 8.5 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="TURK HD+ LINE",TV 8.5 FHD
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8.5 (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="TURK HD+ LINE",TV8.5 (backup)
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucok/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8.5 (backup 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="TURK HD+ LINE",TV8.5 (backup 2)
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8.5 (backup 3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="TURK HD+ LINE",TV8.5 (backup 3)
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8.5 (tkn-blocked)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="TURK HD+ LINE",TV8.5 (tkn-blocked)
+https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8 INT (geçici geçerli)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="TURK HD+ LINE",TV8 INT (geçici geçerli)
+http://162.212.179.33/dvrfl05/gin-tv8int/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="TURK HD+ LINE",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
